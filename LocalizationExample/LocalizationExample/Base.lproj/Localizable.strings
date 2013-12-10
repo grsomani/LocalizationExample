@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by aptara on 10/12/13.
+  Copyright (c) 2013 GS. All rights reserved.
+*/
+"Download" = "Base Download";
+"Description" = "Base Description";
